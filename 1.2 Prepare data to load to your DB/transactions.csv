@@ -1,0 +1,7 @@
+user_email;account_name;transaction_timestamp;category_name;subcategory_name;payee_name;amount;description
+john.doe@gmail.com;Main Card;2026-06-21 08:30:00;Food;Coffee Shops;Starbucks;-5.50;Morning coffee
+john.doe@gmail.com;Main Card;2026-06-01 13:00:00;Food;Groceries;Whole Foods;-45.20;Groceries for the week
+john.doe@gmail.com;Main Card;2026-06-03 18:00:00;Transport;Taxi;Uber;-15.00;Ride home
+jane.smith@gmail.com;Salary Account;2026-05-05 09:00:00;Salary;Main Job;TechCorp;4500.00;December Salary
+jane.smith@gmail.com;Salary Account;2026-05-06 10:00:00;Housing;Rent;Landlord;-1200.00;December Rent
+gabe.newell@gmail.com;Crypto Wallet;2026-06-10 14:20:00;Food;Restaurants;Starbucks;-12.00;Lunch meeting

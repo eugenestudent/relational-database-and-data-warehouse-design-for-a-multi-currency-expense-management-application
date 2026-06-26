@@ -1,0 +1,6 @@
+﻿user_email;account_name;currency_code;balance
+john.doe@gmail.com;Main Card;USD;1500.50
+john.doe@gmail.com;Cash Wallet;EUR;200.00
+jane.smith@gmail.com;Salary Account;PLN;8500.00
+jane.smith@gmail.com;Savings;USD;10000.00
+gabe.newell@gmail.com;Crypto Wallet;USD;3450.75
